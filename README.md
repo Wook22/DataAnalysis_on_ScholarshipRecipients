@@ -78,20 +78,6 @@ This project focuses on analyzing a sample dataset of scholarship recipients for
   * Boxplots, bar plots, histograms for visualization
 * Considered metrics for evaluating financial aid impact: acceptance, renewal, awards by student type, and high school partnerships.
 
-## Presentation Prep
-
-* 5–8 slides targeting organizational leadership
-* Slide topics include:
-
-  1. Title Slide
-  2. Acceptance Rate Overview
-  3. Application Type & Renewal Rate
-  4. First-Generation Students
-  5. High School Partnerships
-  6. Institution Type Analysis
-  7. Key Takeaways / Financial Aid Impact
-  8. Next Steps / Recommendations
-* Plots are placeholders; descriptive bullet points summarize insights.
 
 ## Notes
 
